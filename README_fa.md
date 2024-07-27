@@ -9,7 +9,7 @@
 
 ## معرفی
 
-این پروژه توسعه‌ی یک پنل کاربری برای اسکریپت <a href="https://github.com/ansoncloud8/[[Cloudflare-workers-pages](https://github.com/ansoncloud8/am-tunnel)](https://github.com/ansoncloud8/am-tunnel)-vless">پروکسی Cloudflare-workers/pages</a> ایجاد شده توسط <a href="https://github.com/ansoncloud8">yonggekkk</a> می‌باشد.
+این پروژه توسعه‌ی یک پنل کاربری برای اسکریپت <a href="https://github.com/ansoncloud8/[[Cloudflare-workers-pages](https://github.com/ansoncloud8/am-tunnel)](https://github.com/ansoncloud8/am-tunnel)-vless">پروکسی Cloudflare-workers/pages</a> ایجاد شده توسط <a href="https://github.com/ansoncloud8">ansoncloud8</a> می‌باشد.
 
 ### این پنل به دو روش راه‌اندازی می‌شود:
 
